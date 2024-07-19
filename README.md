@@ -10,11 +10,11 @@ Begin by ensuring you have your development environment set up:
 
 - Node.js
 - NPM
-- an IDE such as Visual Studio Code
+- IDE (code editor) such as Visual Studio Code
 
 ---
 
-Proceed to install the necessary dependencies to beging writing, compilining and deploying your OFT contract.
+Proceed to install the necessary dependencies to enable you to write, compile and deploy your OFT.
 
 ---
 
