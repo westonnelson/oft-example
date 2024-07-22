@@ -40,6 +40,12 @@ Then run tests (in either Forge or Hardhat) or both; by simplyy running `pnpm te
 
 ---
 
+Then deploy your contracts using the command `npx hardhat lz:deploy`
+
+![image](https://github.com/user-attachments/assets/e1c0c239-4a6d-4b05-b6f2-eff0468495d7)
+
+
+---
 ![LayerZero](https://github.com/user-attachments/assets/334a4032-acb6-4f0d-b436-72c4521b1b27)
 
 - [LayerZero Docs](https://docs.layerzero.network/v2) 
