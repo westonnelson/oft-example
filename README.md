@@ -28,6 +28,18 @@ Then, follow the project wizard steps to get your project template set up:
 
 ---
 
+Once you have set up your `.env` file and crafted your smart contract to your requirements, proceed to compile the contracts by running `pnpm compile` and this will compile in both Hardhat and Forge development frameworks:
+
+![LZ-Oapp3](https://github.com/user-attachments/assets/3a4fca81-f53b-4ec9-aaa2-98dc672295b8)
+
+---
+
+Then run tests (in either Forge or Hardhat) or both; by simplyy running `pnpm test` and you should see the following result if all passes:
+
+![LZ-Oapp4](https://github.com/user-attachments/assets/b9498c10-0266-4da5-bb3e-acf45a788733)
+
+---
+
 ![LayerZero](https://github.com/user-attachments/assets/334a4032-acb6-4f0d-b436-72c4521b1b27)
 
 - [LayerZero Docs](https://docs.layerzero.network/v2) 
